@@ -201,7 +201,7 @@ set_metadata("/system/bin/adsprpcd", "uid", 0, "gid", 2000, "mode", 0755, "capab
 set_metadata("/system/bin/audiod", "uid", 0, "gid", 2000, "mode", 0755, "capabilities", 0x0, "selabel", "u:object_r:audiod_exec:s0");
 set_metadata("/system/bin/androidshmservice", "uid", 0, "gid", 2000, "mode", 0755, "capabilities", 0x0, "selabel", "u:object_r:androidshmservice_exec:s0");
 set_metadata("/system/bin/apaservice", "uid", 0, "gid", 2000, "mode", 0755, "capabilities", 0x0, "selabel", "u:object_r:apaservice_exec:s0");
-set_metadata("/system/bin/app_process", "uid", 0, "gid", 2000, "mode", 0755, "capabilities", 0x0, "selabel", "u:object_r:zygote_exec:s0");
+set_metadata("/system/bin/app_process32", "uid", 0, "gid", 2000, "mode", 0755, "capabilities", 0x0, "selabel", "u:object_r:zygote_exec:s0");
 set_metadata("/system/bin/at_distributor", "uid", 0, "gid", 2000, "mode", 0755, "capabilities", 0x0, "selabel", "u:object_r:at_distributor_exec:s0");
 set_metadata("/system/bin/auditd", "uid", 0, "gid", 2000, "mode", 0755, "capabilities", 0x0, "selabel", "u:object_r:auditd_exec:s0");
 set_metadata("/system/bin/bintvoutservice", "uid", 0, "gid", 2000, "mode", 0755, "capabilities", 0x0, "selabel", "u:object_r:bintvoutservice_exec:s0");
