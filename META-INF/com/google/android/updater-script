@@ -41,10 +41,8 @@ symlink("/system/lib/libatomcore.so", "/system/priv-app/SelectiveFocusViewer/lib
 symlink("/system/lib/libatomjpeg.so", "/system/priv-app/SelectiveFocusViewer/lib/arm/libatomjpeg.so");
 symlink("/system/lib/libbluetooth_jni.so", "/system/app/Bluetooth/lib/arm/libbluetooth_jni.so");
 symlink("/system/lib/libcommonpawrapper.so", "/system/app/RootPA/lib/arm/libcommonpawrapper.so");
-symlink("/system/lib/libdefcontainer_jni.so", "/system/priv-app/DefaultContainerService/lib/arm/libdefcontainer_jni.so");
 symlink("/system/lib/libjni_emailencryption.so", "/system/app/SecEmail_K/lib/arm/libjni_emailencryption.so");
 symlink("/system/lib/libjni_pacprocessor.so", "/system/app/PacProcessor/lib/arm/libjni_pacprocessor.so");
-symlink("/system/lib/libnfc_nci_jni.so", "/system/app/NfcNci/lib/arm/libnfc_nci_jni.so");
 symlink("/system/lib/libprintspooler_jni6.so", "/system/app/SPrintSpooler6/lib/arm/libprintspooler_jni6.so");
 symlink("/system/lib/libSecFileClientUnit.so", "/system/priv-app/SamsungLinkPlatform/lib/arm/libSecFileClientUnit.so");
 symlink("/system/lib/libsecipx.so", "/system/priv-app/SelectiveFocusViewer/lib/arm/libsecipx.so");
