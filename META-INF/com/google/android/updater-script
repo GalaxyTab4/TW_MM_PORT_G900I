@@ -301,7 +301,7 @@ set_progress(0.700000);
 ui_print(" ");
 ui_print("Extracting boot image...");
 ui_print(" ");
-package_extract_file("boot.img", "/dev/block/platform/msm_sdcc.1/by-name/boot");
+package_extract_file("newboot.img", "/dev/block/platform/msm_sdcc.1/by-name/boot");
 set_progress(0.800000);
 #ROOT
 ui_print(" ");
